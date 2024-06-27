@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @safdarayubpk
 - 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Deep Learning projects.
+- 🌱 I’m currently learning Cloud certified Generative Artificial intelligence.
+- 💞️ I’m looking to collaborate on node js, Next js and Deep Learning projects.
 - 📫 How to reach me safdarayub@gmail.com.
 
 <!---
