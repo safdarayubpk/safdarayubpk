@@ -4,9 +4,10 @@
 
 Building autonomous AI agents, MCP servers, and production cloud-native applications. 23+ years of service in Pakistan Air Force (Retired). Currently pursuing Certified Agentic & Robotic AI Engineering at PIAIC, Air University Islamabad.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=flat&logo=vercel&logoColor=white)](https://safdarayub-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safdar-ayub-a9884694)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:safdarayub@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=7NoWCL33IUQ)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@safdarayub3584)
 
 ---
 
@@ -27,6 +28,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 | [**AI Video Generator**](https://github.com/safdarayubpk/general-agent-video-maker) | End-to-end AI pipeline: text prompt to finished motion graphics video with narration. [Watch on YouTube](https://www.youtube.com/watch?v=7NoWCL33IUQ) | TypeScript, React, Remotion, Claude Code, Gemini TTS |
 | [**Flow**](https://github.com/safdarayubpk/flow) | 8-phase evolution from console app to cloud-native microservices with AI chatbot, Kafka events, and Dapr on OCI Kubernetes. | Next.js, FastAPI, Kubernetes, Helm, Dapr, Kafka |
 | [**Robotics Textbook**](https://2-book.vercel.app) | Interactive textbook with RAG chatbot covering ROS 2, Gazebo, NVIDIA Isaac & VLA models. | Docusaurus, OpenAI Agents SDK, Qdrant, FastAPI |
+| [**safdarayub.dev**](https://safdarayub-dev.vercel.app) | Personal portfolio with blog, project showcases, and contact form. Statically generated with full SEO. [Source](https://github.com/safdarayubpk/safdarayub.dev) | Next.js 16, Tailwind CSS 4, ShadCN UI, MDX, Framer Motion |
 
 ---
 
@@ -68,7 +70,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safdarayubpk&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=safdarayubpk&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
