@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://safdarayub-dev.vercel.app/contact">
+    <img src="https://img.shields.io/badge/%F0%9F%9F%A2_Available_for_Full--Time_Roles-28A745?style=for-the-badge&logoColor=white" alt="Available for Full-Time Roles" />
+  </a>
+</p>
+
 # Safdar Ayub
 
 **AI Engineer | Agentic AI Systems | Full Stack Developer | Cloud-Native Kubernetes**
@@ -8,6 +14,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safdar-ayub-a9884694)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:safdarayub@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@safdarayub3584)
+[![Resume](https://img.shields.io/badge/Resume-FF6B35?style=flat&logo=adobeacrobatreader&logoColor=white)](https://safdarayub-dev.vercel.app/resume/Safdar_Ayub_Resume.pdf)
 
 ---
 
@@ -75,4 +82,21 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 
 ---
 
-*Open to collaboration on Agentic AI, MCP integrations, and cloud-native projects.*
+### Latest Blog Posts
+
+- [Why Testing Is Your Ticket Into a Software House](https://safdarayub-dev.vercel.app/blog/testing-culture-software-houses) — Testing pyramid, practical examples, and why software houses care
+- [Designing Production-Ready APIs](https://safdarayub-dev.vercel.app/blog/production-ready-apis) — Zod validation, rate limiting, and proper error handling
+- [Spec-Driven Development: Why I Write 21 ADRs Before Shipping](https://safdarayub-dev.vercel.app/blog/spec-driven-development) — Military planning meets software engineering
+- [Building a Platinum-Tier AI Employee](https://safdarayub-dev.vercel.app/blog/building-platinum-tier-ai-employee) — Multi-agent orchestration with safety gates
+
+> More at [safdarayub.dev/blog](https://safdarayub-dev.vercel.app/blog)
+
+---
+
+<p align="center">
+  <b>Ready to join a team that builds serious software.</b><br/>
+  Open to remote roles worldwide · Based in Pakistan (UTC+5)<br/><br/>
+  <a href="https://safdarayub-dev.vercel.app/contact">
+    <img src="https://img.shields.io/badge/Hire_Me-Get_in_Touch-1E40AF?style=for-the-badge" alt="Get in Touch" />
+  </a>
+</p>
