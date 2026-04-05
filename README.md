@@ -15,6 +15,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:safdarayub@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@safdarayub3584)
 [![Resume](https://img.shields.io/badge/Resume-FF6B35?style=flat&logo=adobeacrobatreader&logoColor=white)](https://safdarayub-dev.vercel.app/resume/Safdar_Ayub_Resume.pdf)
+[![Watch My Story](https://img.shields.io/badge/Watch_My_Story-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FdmDVuP7YzM)
 
 ---
 
