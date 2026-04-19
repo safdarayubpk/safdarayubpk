@@ -23,6 +23,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 
 - **Agentic AI Systems** — Multi-agent orchestration with human-in-the-loop safety gates
 - **MCP Servers** — Custom FastMCP integrations for email, ERP, social media, and documents
+- **E-Commerce Platforms** — Production full-stack stores with payments, admin dashboards, and real-time inventory
 - **AI-Powered Applications** — RAG chatbots, AI video generation, natural language task management
 - **Cloud-Native Deployments** — Kubernetes, Helm, Dapr microservices, OCI production infrastructure
 
@@ -32,7 +33,9 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**PersonalAIEmployee**](https://github.com/safdarayubpk/PersonalAIEmployee) | Autonomous AI agent monitoring Gmail, filesystem & WhatsApp with 4 custom MCP servers, circuit breakers, and Obsidian vault pipeline. *Hackathon Gold Tier.* | Python, FastMCP, Claude Code, OAuth2, Playwright |
+| [**PersonalAIEmployee**](https://github.com/safdarayubpk/PersonalAIEmployee) | Autonomous AI agent monitoring Gmail, filesystem & WhatsApp with 4 custom MCP servers, circuit breakers, and Obsidian vault pipeline. *Hackathon Platinum Tier.* | Python, FastMCP, Claude Code, OAuth2, Playwright |
+| [**AHF Auto Parts**](https://github.com/safdarayubpk/ahf-auto-parts) | Production JDM e-commerce platform — vehicle compatibility lookup, Stripe checkout, 30-min stock reservation, full admin dashboard with Recharts analytics. [Live →](https://ahf-auto-parts.vercel.app) | Next.js 16, PostgreSQL, Prisma, NextAuth.js v5, Stripe, Cloudinary, Upstash Redis |
+| [**Campaign Manager**](https://github.com/safdarayubpk/campaign-manager) | Full-stack CRM dashboard with contacts CRUD, visual segment rule builder, multi-step campaign wizard, and server-rendered analytics. [Live →](https://campaign-manager-flax.vercel.app) | Next.js 16, Prisma, Turso/LibSQL, Zod, Recharts |
 | [**AI Video Generator**](https://github.com/safdarayubpk/general-agent-video-maker) | End-to-end AI pipeline: text prompt to finished motion graphics video with narration. [Watch on YouTube](https://www.youtube.com/watch?v=7NoWCL33IUQ) | TypeScript, React, Remotion, Claude Code, Gemini TTS |
 | [**Flow**](https://github.com/safdarayubpk/flow) | 8-phase evolution from console app to cloud-native microservices with AI chatbot, Kafka events, and Dapr on OCI Kubernetes. | Next.js, FastAPI, Kubernetes, Helm, Dapr, Kafka |
 | [**Robotics Textbook**](https://2-book.vercel.app) | Interactive textbook with RAG chatbot covering ROS 2, Gazebo, NVIDIA Isaac & VLA models. | Docusaurus, OpenAI Agents SDK, Qdrant, FastAPI |
@@ -57,6 +60,9 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
 **DevOps & Cloud**
 
@@ -65,6 +71,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat&logo=upstash&logoColor=black)
 
 ---
 
