@@ -6,9 +6,9 @@
 
 # Safdar Ayub
 
-**AI Engineer | Agentic AI Systems | Full Stack Developer | Cloud-Native Kubernetes**
+**AI Engineer | Agentic AI Systems | ML Pipelines | Full Stack Developer | Cloud-Native Kubernetes**
 
-Building autonomous AI agents, MCP servers, and production cloud-native applications. 23+ years of service in Pakistan Air Force (Retired). Currently pursuing Certified Agentic & Robotic AI Engineering at PIAIC, Air University Islamabad.
+Building autonomous AI agents, ML data pipelines, MCP servers, and production cloud-native applications. 23+ years of service in Pakistan Air Force (Retired). Currently pursuing Certified Agentic & Robotic AI Engineering at PIAIC, Air University Islamabad.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E40AF?style=flat&logo=vercel&logoColor=white)](https://safdarayub-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/safdar-ayub-a9884694)
@@ -22,6 +22,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 ### What I Build
 
 - **Agentic AI Systems** — Multi-agent orchestration with human-in-the-loop safety gates
+- **ML Data Pipelines** — End-to-end scraping, clustering, LLM analysis, and automated reporting
 - **MCP Servers** — Custom FastMCP integrations for email, ERP, social media, and documents
 - **E-Commerce Platforms** — Production full-stack stores with payments, admin dashboards, and real-time inventory
 - **AI-Powered Applications** — RAG chatbots, AI video generation, natural language task management
@@ -33,6 +34,7 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**AI/ML Job Market Pipeline**](https://github.com/safdarayubpk/ai-ml-job-market-pipeline) | Automated intelligence pipeline that scrapes RemoteOK, clusters jobs with K-Means/DBSCAN, classifies seniority with ML, generates LLM insights via Claude API, and pushes daily reports to Google Sheets. | Python, scikit-learn, Claude API, FastAPI, PostgreSQL, SQLAlchemy, Docker |
 | [**PersonalAIEmployee**](https://github.com/safdarayubpk/PersonalAIEmployee) | Autonomous AI agent monitoring Gmail, filesystem & WhatsApp with 4 custom MCP servers, circuit breakers, and Obsidian vault pipeline. *Hackathon Platinum Tier.* | Python, FastMCP, Claude Code, OAuth2, Playwright |
 | [**AHF Auto Parts**](https://github.com/safdarayubpk/ahf-auto-parts) | Production JDM e-commerce platform — vehicle compatibility lookup, Stripe checkout, 30-min stock reservation, full admin dashboard with Recharts analytics. [Live →](https://ahf-auto-parts.vercel.app) | Next.js 16, PostgreSQL, Prisma, NextAuth.js v5, Stripe, Cloudinary, Upstash Redis |
 | [**Campaign Manager**](https://github.com/safdarayubpk/campaign-manager) | Full-stack CRM dashboard with contacts CRUD, visual segment rule builder, multi-step campaign wizard, and server-rendered analytics. [Live →](https://campaign-manager-flax.vercel.app) | Next.js 16, Prisma, Turso/LibSQL, Zod, Recharts |
@@ -49,9 +51,17 @@ Building autonomous AI agents, MCP servers, and production cloud-native applicat
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_SDK-FF6B35?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**ML & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 **Full Stack**
 
