@@ -24,6 +24,7 @@ Building autonomous AI agents, ML data pipelines, MCP servers, and production cl
 - **Agentic AI Systems** — Multi-agent orchestration with human-in-the-loop safety gates
 - **ML Data Pipelines** — End-to-end scraping, clustering, LLM analysis, and automated reporting
 - **MCP Servers** — Custom FastMCP integrations for email, ERP, social media, and documents
+- **SaaS Products** — End-to-end subscription apps with auth, payments, transactional email, and analytics
 - **E-Commerce Platforms** — Production full-stack stores with payments, admin dashboards, and real-time inventory
 - **AI-Powered Applications** — RAG chatbots, AI video generation, natural language task management
 - **Cloud-Native Deployments** — Kubernetes, Helm, Dapr microservices, OCI production infrastructure
@@ -36,6 +37,7 @@ Building autonomous AI agents, ML data pipelines, MCP servers, and production cl
 |---------|-------------|------------|
 | [**AI/ML Job Market Pipeline**](https://github.com/safdarayubpk/ai-ml-job-market-pipeline) | Automated intelligence pipeline that scrapes RemoteOK, clusters jobs with K-Means/DBSCAN, classifies seniority with ML, generates LLM insights via Claude API, and pushes daily reports to Google Sheets. | Python, scikit-learn, Claude API, FastAPI, PostgreSQL, SQLAlchemy, Docker |
 | [**PersonalAIEmployee**](https://github.com/safdarayubpk/PersonalAIEmployee) | Autonomous AI agent monitoring Gmail, filesystem & WhatsApp with 4 custom MCP servers, circuit breakers, and Obsidian vault pipeline. *Hackathon Platinum Tier.* | Python, FastMCP, Claude Code, OAuth2, Playwright |
+| [**CareerCoach Pakistan**](https://github.com/safdarayubpk/careercoach-pakistan) | AI-powered interview prep for Pakistani job seekers — paste a JD, answer 10 tailored questions, get instant AI scores and feedback. Urdu voice input, 7-day free trial, PKR 999/month. [Live →](https://careercoach-pakistan.vercel.app) | Next.js 16, Supabase, Groq LLaMA 3.3 70B, Stripe, Resend, PostHog, Vercel |
 | [**AHF Auto Parts**](https://github.com/safdarayubpk/ahf-auto-parts) | Production JDM e-commerce platform — vehicle compatibility lookup, Stripe checkout, 30-min stock reservation, full admin dashboard with Recharts analytics. [Live →](https://ahf-auto-parts.vercel.app) | Next.js 16, PostgreSQL, Prisma, NextAuth.js v5, Stripe, Cloudinary, Upstash Redis |
 | [**Campaign Manager**](https://github.com/safdarayubpk/campaign-manager) | Full-stack CRM dashboard with contacts CRUD, visual segment rule builder, multi-step campaign wizard, and server-rendered analytics. [Live →](https://campaign-manager-flax.vercel.app) | Next.js 16, Prisma, Turso/LibSQL, Zod, Recharts |
 | [**AI Video Generator**](https://github.com/safdarayubpk/general-agent-video-maker) | End-to-end AI pipeline: text prompt to finished motion graphics video with narration. [Watch on YouTube](https://www.youtube.com/watch?v=7NoWCL33IUQ) | TypeScript, React, Remotion, Claude Code, Gemini TTS |
